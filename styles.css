@@ -80,3 +80,14 @@ li {
 .footer {
   margin-top: 48px;
 }
+
+.tags {
+  margin-left: 14px;
+  display: inline;
+  color: #007e7e;
+  font-size: 0.875em;
+}
+
+.tags:hover {
+  color: #009898;
+}
