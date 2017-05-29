@@ -15,9 +15,14 @@ body {
 }
 
 .title {
-  font-size: 1.75em;
-  width: 100%;
-  margin-bottom: 32px;
+  font-size: 2em;
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-size: 1.45em;
+  margin-top: 36px;
+  margin-bottom: 20px;
 }
 
 .caret {
@@ -71,11 +76,6 @@ a:visited {
   } 
 }
 
-.footer {
-  margin-top: 40px;
-  margin-bottom: 24px;
-}
-
 .videoWrapper {
   margin-top: 32px;
   margin-bottom: 32px;
@@ -92,11 +92,30 @@ a:visited {
 	height: 100%;
 }
 
-.introduction {
-  margin-bottom: 40px;
-  background-color: #ddd;
+.block-highlight {
+  margin-top: 15px;
+  background-color: #eaeaea;
 }
 
-.intro-text {
+.text-block {
   padding: 6px;
+  margin-bottom: 36px;
+}
+
+.footer {
+  margin-top: 48px;
+  margin-bottom: 24px;
+}
+
+.tags-block {
+  margin-top: 40px;
+  margin-bottom: -5px;
+}
+
+.tags {
+  color: #aaa;
+  padding: 6px;
+  margin-right: -4px;
+  background-color: #f7f7f7;
+  border: 1px solid #eaeaea;
 }
