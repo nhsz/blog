@@ -16,7 +16,7 @@ body {
 
 .title {
   font-size: 2em;
-  margin-bottom: 40px;
+  margin-bottom: 36px;
 }
 
 h2 {
@@ -93,13 +93,12 @@ a:visited {
 }
 
 .block-highlight {
-  margin-top: 15px;
   background-color: #eaeaea;
 }
 
 .text-block {
   padding: 6px;
-  margin-bottom: 36px;
+  margin-bottom: 48px;
 }
 
 .footer {
